@@ -5,6 +5,7 @@ export default function CalculatorPage() {
         <p className="text-lg">This is a simple calculator page.</p>
         <div className="flex flex-col items-center gap-4">
             {/* Calculator component will go here */}
+            <p>This is an example of creating a branch, then merging</p>
         </div>
         </div>
     );
